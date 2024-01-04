@@ -15,8 +15,6 @@ public class App {
         soma2= c + d;
         resto = a % 2;
 
-        System.out.println(resto);
-
         if(b > c && d > a){
             if(soma2 > soma){
                 if(c > 0 && c >0){
